@@ -16,7 +16,7 @@ setuptools.setup(
     long_description="README.md",
     long_description_content_type="text/markdown",
     license="BSD",
-    url="https://github.com/PotatoXi/hello-world",
+    url="https://github.com/PotatoXi/Jamie",
 
     project_urls={
         "Bug Tracker": "https://github.com/ni1o1/transbigdata/issues",
