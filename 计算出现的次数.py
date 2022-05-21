@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 19 16:34:28 2021
-
-@author: JmZhao
-
-E-mail: jmzhao29@gmail.com
-
+@author: jamie
 Progress is the activity of today and the assurance of tomorrow ！
 
 """
