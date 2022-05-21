@@ -1,12 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-2022/5/19 18:20
 @Author : Jamie
 """
 import sys
-def say(to):
-    print('hello', to)
+
+def say(m):
+    print('hello', m)
 
 if __name__ == '__main__':
     say(sys.argv[1])
 
+def add_old(number):
+    return number + 1
+
+def add_2(number):
+    return number + 2
