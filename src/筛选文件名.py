@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul  7 10:55:20 2021
 
-@author: asus
+@author: jamie
 """
 
 import os
