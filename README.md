@@ -1,4 +1,4 @@
-Jamie’s code.
-The layout of the Jamie Version 0.0.1.
-
-00<（￣︶￣）>00
+# Jamie's  Package
+**00<（￣︶￣）>00**
+# Whatever you do, persist. Go for it.
+ 
