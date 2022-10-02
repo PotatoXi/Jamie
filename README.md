@@ -1,4 +1,4 @@
-# Jamie's world!
+# Jamie's world
 **(●ˇ∀ˇ●)**
 主页地址：
  [![github](https://img.shields.io/badge/github-Jamie-brightgreen.svg)](https://github.com/PotatoXi)
