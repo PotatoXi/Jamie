@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: jmzhao
-"""
 
 from osgeo import gdal, ogr, osr
 import os
