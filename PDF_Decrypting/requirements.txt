@@ -1,0 +1,4 @@
+requests
+cryptography
+pikepdf
+PyPDF2~=2.0
